@@ -17,7 +17,9 @@
 }
 
 .bg-purple {
-  background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+  background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%); 
+  /* background: linear-gradient(214deg, #28c0f0 6%, #000000 92%); */
+
 }
 
 .bg-darkblue {
@@ -3394,7 +3396,7 @@ h5 {
 }
 
 .bg-purple {
-  background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+  background: linear-gradient(214.02deg, #4ab2c1 6.04%, #006270 92.95%);
 }
 
 .bg-darkblue {
